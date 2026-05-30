@@ -1,4 +1,4 @@
-# 🏦 Simulación de un Sistema Bancario
+# Simulación de un Sistema Bancario
 
 ## Descripción
 
